@@ -5,11 +5,11 @@ RESET = '\033[0m'   # This resets the color back to default
 
 import sys,time,random
 
-def print_slow(str):
-    for letter in str:
+def print_slow(str1):
+    for letter in str1:
         sys.stdout.write(letter)
         sys.stdout.flush()
-        time.sleep(0.03)
+        time.sleep(0.08)        
 
 
       
