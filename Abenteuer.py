@@ -9,15 +9,17 @@ def print_slow(str1):
     for letter in str1:
         sys.stdout.write(letter)
         sys.stdout.flush()
-        time.sleep(0.08)        
+        time.sleep(0.05)        
 
 
-      
+# Intro zur Geschichte      
 print_slow(f"{GREEN}""Willkommen zu Gothic!")
 print_slow(" In diesem Textbasierten Abenteuer wirst du die Welt von Gothic mit all seinen Gefahren,")
 print_slow(" Geheimnissen und Mythen kennen lernen. \nLehn dich zurück und tauche ein in die Minenkolonie der Insel Khorinis\n\n\n")
 
-print_slow(f"{RED}""\nDas Königreich Myrtana, wiedervereint durch die Hand König Rhobars II.")
+# Beginn der Storyline
+
+print_slow(f"{RED}""\nXardas:"f"{BLUE}""Das Königreich Myrtana, wiedervereint durch die Hand König Rhobars II.")
 print_slow(" \nIn den langen Jahren seiner Herrschaft war es ihm gelungen, alle Widersacher des Reiches zu bezwingen ... \nBis auf einen.")
 print_slow(" \nOrks.\n\n")
 print_slow(" \nDer Krieg mit den Orks forderte seinen Tribut ...")
@@ -48,5 +50,15 @@ print_slow(" \nEin weiterer Verurteilter wurde zur Klippe gebracht. \nEr wusste 
 
 
 
-print(f"{BLUE}""Du stehst an einer Klippe. Vor dir erstreckt sich eine Kuppel von gigantischem Ausmaß.")
-print("Unter dir erblickst du einen kleinen See mit einer Forderanlage.")
+print_slow(f"{GREEN}""\nVerzweifelt versuchst Du Dich aus dem erbarmungslosen Griff der beiden Wachen zu befreien, die Dich unaufhaltsam vorwärts ziehen.")
+print_slow("\nNur noch wenige Schritte bis zum Abgrund.")
+print_slow("\nDu bohrst Deine Füße in den Dreck, um die Kerle daran zu hindern, Dich näher an diese Klippe zu bringen. ")
+print_slow(f"{RED}""\nDer Wächter zu deiner linken keucht dir ins Ohr: "f"{BLUE}""Jetzt gehts ab hinter den Vorhang!")
+print_slow(f"{GREEN}""\nSein langes, schweißnasses, schwarzes Haar schlägt Dir ins Gesicht.")
+print_slow("\nMit stahlhartem Griff umfaßt er Deinen linken Arm und Deine Schulter, während er brutal versucht, Dir die Beine wegzutreten, \num Deinen Widerstand zu brechen. ")
+print_slow("\nDer Kerl zu Deiner Rechten lacht hämisch, als er mit aller Kraft an Deinem Arm reißt.")
+print_slow("\nDu blickst auf.")
+print_slow("\nDirekt hinter der Klippe erstreckt sich die riesige leuchtende Kuppel, die Du schon von weitem gesehen hast. ")
+print_slow("\nWie erschlagen von der Größe dieser magischen Barriere erstarrst Du für einen Moment des Schreckens.")
+print_slow("\nGenug für die beiden Wachen, um Deinen Widerstand endgültig zu überwinden. ")
+print_slow("\nDer Schwarzhaarige tritt Dir Deine Beine weg, und auf Deinen Knien wirst Du bis an den Rand der Klippe geschleift.")
