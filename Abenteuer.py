@@ -62,3 +62,31 @@ print_slow("\nDirekt hinter der Klippe erstreckt sich die riesige leuchtende Kup
 print_slow("\nWie erschlagen von der Größe dieser magischen Barriere erstarrst Du für einen Moment des Schreckens.")
 print_slow("\nGenug für die beiden Wachen, um Deinen Widerstand endgültig zu überwinden. ")
 print_slow("\nDer Schwarzhaarige tritt Dir Deine Beine weg, und auf Deinen Knien wirst Du bis an den Rand der Klippe geschleift.")
+print_slow("\nDas dunkle Summen, das die ganze Zeit kaum wahrnehmbar im Hintergrund zu hören war, wird jetzt lauter.")
+print_slow("\nIm Zentrum der magischen Kuppel siehst Du eine größere Siedlung.")
+print_slow("\nRauch steigt von den Hütten auf. ")
+print_slow("\nWeiter vorne ist etwas, das aussieht wie der Eingang einer Mine... ")
+print_slow(f"{RED}""\nSchafrichter: "f"{BLUE}""Stellt ihn hin!")
+print_slow("\nLaut erhebt der Scharfrichter des Königs hinter Dir das Wort und die beiden Wachen zerren Dich eilig hoch.")
+print_slow("\nDu verrenkst Dir den Hals, um hinter Dich zu blicken; \nkannst den hochgewachsenen Mann aber nur so gerade aus den Augenwinkeln sehen. ")
+print_slow(f"{RED}""\nSchafrichter: "f"{BLUE}""Gefangener!")
+print_slow("\nFür Deine Missetaten verurteilt Dich unser erhabener König zur Zwangsarbeit in den Erzminen. \nDu wirst dort verbleiben bis zum Ende Deines jämmerlichen Lebens! Wachen...")
+print_slow(f"{GREEN}""\nUndeutlich siehst Du, wie die Gestalt hinter Dir einen Arm hebt.") 
+print_slow("\nWie wild wirfst Du Dich hin und her, um dem Griff der Wachen zu entkommen.")
+print_slow("\nEin Tritt ins Kreuz reißt Dich aus dem Armen der Wachen und Du fällst, stürzt auf die Barriere zu, reißt die Arme hoch, um den Aufprall abzufangen, \n\n\n\ndoch der kommt nicht... ")
+
+
+
+
+print_slow("\nOhne Widerstand fällst Du einfach weiter, immer schneller rast Du in Richtung Boden. \n\n\n")
+
+
+print_slow("\nNein, Wasser! \n\n\n")
+
+
+print_slow("\nDu stürzt auf einen See zu! \n\n")
+
+
+print_slow("\nDu hörst Deinen eigenen Schrei nicht mehr, als Du endlich die Wasseroberfläche durchschlägst.")
+print_slow("\nBenommen wie von einem Keulenschlag läßt Du Dich aus der Tiefe langsam wieder an die Oberfläche treiben.")
+print_slow("\nLuft!")
