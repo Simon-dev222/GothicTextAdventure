@@ -19,6 +19,30 @@ print_slow(" Geheimnissen und Mythen kennen lernen. \nLehn dich zurück und tauc
 
 # Beginn der Storyline
 
+print_slow(f"{RESET}""\nEs herrscht Krieg im Königreich der Menschen. ")
+print_slow("\nVon Norden her fallen Scharen von Orks in das Land ein.")
+print_slow("\nUm die Kampfkraft der königlichen Armee zu erhalten, sind die Schmiede des Reiches unentwegt damit beschäftigt, neue Waffen anzufertigen.")
+print_slow("\nDiejenigen, die in dieser Zeit das Gesetz brechen, trifft ein hartes Los: ")
+print_slow("\nSie werden zur Zwangsarbeit in der Strafkolonie verurteilt, wo sie tief aus der Erde das ERZ fördern, \ndas für die Herstellung der Waffen benötigt wird.")
+print_slow("\nIn der gesamten Strafkolonie gibt es keine Wachen, und es werden auch keine gebraucht: ")
+print_slow("\nDas gesamte Gebiet um die Minen ist von einer magischen Barriere umschlossen; \neiner Sphäre von tausend Meter Durchmesser, die das Gefängnis wie eine Kuppel überspannt \nund sich tief unter der Erde zu einer Kugel vollendet. \n\n\n")
+print_slow("\nVon außen kann die Barriere problemlos passiert werden; aber kein lebendiges Wesen kann aus ihr entkommen.")
+print_slow("\nLediglich tote Gegenstände können die Barriere von innen durchdringen. ")
+print_slow("\nSo haben die Gefangenen einmal im Monat Gelegenheit, das kostbare ERZ an die Außenwelt abzugeben. ")
+print_slow("\nZum Tausch dafür bekommen sie lebensnotwendige Nahrung, Medizin, aber auch wenige kleine Kostbarkeiten, die ihnen das harte Leben annehmlicher machen.")
+print_slow("\nIm Knast herrscht eine harte Rangordnung.")
+print_slow(" Nur den Mächtigsten unter den Gefangenen ist es vorbehalten, die kostbaren Güter zu empfangen und nach eigenem Ermessen unter den Schwächeren zu verteilen. ")
+print_slow("\nStarken nehmen sich den Löwenanteil und leben in Dekadenz, während die Schwachen gezwungen sind, \nfür ihren mickrigen Anteil Tag für Tag in den Minen zu schuften.\n\n\n")
+print_slow("\nIn der Strafkolonie gibt es zwei rivalisierende Gruppen:")
+print_slow("\nAuf der einen Seite das ALTE LAGER, das unter der Herrschaft der Erzbarone steht, die den Großteil des Tauschhandels mit der Außenwelt kontrollieren, \nund auf der anderen Seite das kleinere NEUE LAGER, dessen Bewohner sich vom alten Lager abgespalten haben, \num ihre eigene kleine Mine aufzubauen und wie besessen an ihrem Ausbruchsplan zu arbeiten.")
+print_slow("\nAußerdem gibt es noch den etwas abgelegenen SEKTENTEMPEL, dessen Anführer den baldigen Untergang der Welt prophezeien. ")
+print_slow("\nGemeinsam mit ihren Jüngern zelebrieren sie die letzten Tage, die ihnen nach ihrer eigenen Meinung noch verbleiben. ")
+print_slow("\nDer Sektentempel und das neue Lager haben sich gegen die große Macht des alten Lagers verbündet, \nund so sind die Kräfte im Gefängnis (zur Zeit) in etwa im Gleichgewicht.")
+print_slow("\nGelegentlich kommt es zu Angriffen und kleineren Überfällen zwischen den Lagern, für große Gemetzel ist aber keine der Gruppierungen mächtig genug.")
+print_slow("\nJede der Parteien beäugt die jeweils andere ständig in der Erwartung einer kleinen Unachtsamkeit, um den taktischen Vorteil zu erlangen, \nden sie bräuchte, um erbarmungslos über ihre Gegner herzufallen..\n\n\n\n\n")
+
+
+
 print_slow(f"{RED}""\nXardas:"f"{BLUE}""Das Königreich Myrtana, wiedervereint durch die Hand König Rhobars II.")
 print_slow(" \nIn den langen Jahren seiner Herrschaft war es ihm gelungen, alle Widersacher des Reiches zu bezwingen ... \nBis auf einen.")
 print_slow(" \nOrks.\n\n")
